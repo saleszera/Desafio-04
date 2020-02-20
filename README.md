@@ -9,10 +9,16 @@
     <li>ReactJS</li>
   </ul>
   <span>A aplicação consiste na criação de uma interface estatica semelhante ao Facebook.</span><br>
-  <span>Aqui existe um estado onde armazena objetos que contem o autor da postagem e os seus respectivos comentarios</span>  
+  <span>Aqui existe um estado onde armazena objetos que contem o autor da postagem e os seus respectivos comentarios.</span>  
 
 </p>
-
+<h1>Requerimentos</h1>
+<ul>
+  <li>Nodejs: https://nodejs.org/en/</li>
+  <li>yarn: https://classic.yarnpkg.com/en/docs/install/#windows-stable</li>
+ </ul>
+ <small>Recomendável baixar a versão LTS tanto do node quanto do yarn.</small>
+ <br>
 <h1>Como utilizar</h1>
 
 <ul>
@@ -23,5 +29,5 @@
   <li>Agora é só testar!</li>
 </ul>
 
-<p>Como bonus, deixei a aplicação responsiva e inseri uma animação no carregamento da pagina</p>
+<p>Como bonus, deixei a aplicação responsiva e inseri uma animação no carregamento da pagina.</p>
 
