@@ -121,6 +121,10 @@ nav > div i{
   background: #EFEFEF;
 }
 
+.comment p:hover{
+  background: #F9F9F9;
+}
+
 .comment span{
   font-weight: bold;
   margin-right: 6px;
