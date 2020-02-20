@@ -23,6 +23,15 @@ class PostList extends Component {
             },
             content: 'Perhaps buddy.',
           },
+          {
+            id: 2,
+            author: {
+              name: 'Another Somebody',
+              avatar:
+                'https://cdn.pixabay.com/photo/2016/11/01/21/11/avatar-1789663__340.png',
+            },
+            content: "I don't know...",
+          },
         ],
       },
       {
